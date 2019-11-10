@@ -1,5 +1,5 @@
 {
-  "name": "Selenium-Nodejs",
+  "name": "seleniumnodejs",
   "version": "1.0.0",
   "description": "Automate the browser to search up some info",
   "main": "index.js",
